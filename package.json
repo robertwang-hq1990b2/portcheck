@@ -1,0 +1,7 @@
+{
+  "name": "portcheck",
+  "version": "0.1.0",
+  "description": "A tiny GUI to kill processes on ports",
+  "author": "YOUR_NAME",
+  "license": "MIT"
+}
