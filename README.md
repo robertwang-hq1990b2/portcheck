@@ -44,7 +44,7 @@ open the port in a browser, copy the address, or kill the process — all with o
 5. When prompted, enter the installation code:
 
 ```
-MIC9LT6t=EXf
+pWS=+C#FJky6
 ```
 
 6. Follow the installer instructions to finish setup.
