@@ -1,5 +1,5 @@
 # PortCheck — v0.2.0
-sd
+
 A lightweight desktop utility for monitoring and managing ports and processes in real time.
 
 ![PortCheck screenshot](./preview.png)
